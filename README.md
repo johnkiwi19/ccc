@@ -1,10 +1,10 @@
 
 
-alias s='clear;echo "git status";git status '
+alias  s='clear;echo "git status";git status '
 alias  s='clear ; echo -e "git status  \n" ; git status'
 
-alias  a='git add . '
-lias  aa='git   add -A'
+alias   a='git add . '
+alias  aa='git   add -A'
 
 alias ra="git rm --cached '*'"
 alias r="git rm --cached "
